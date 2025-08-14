@@ -1,0 +1,3 @@
+.env
+RAPIDAPI_KEY=
+GOOGLE_API_KEY=
